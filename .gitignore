@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+.env.local
+temp_clips/
+kb-index/
+*.mp3
+thumbnail.png
